@@ -1,4 +1,4 @@
-# CalabashHelloWorld
+# Calabash Android Hello World
 This is a basic Calabash Android Hello world.
 
 Prerequisites :
